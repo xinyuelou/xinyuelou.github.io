@@ -18,3 +18,5 @@ Hi, I'm Xinyue Lou (娄馨月). I am am currently a Ph.D. student at [Beijing Ji
 ## Education & Experience
 - B.S., Computer Science and Technology and Economics, Beijing Jiaotong University, 09/2020-06/2024
 - Ph.D., Computer Science and Technology, Beijing Jiaotong University, 09/2024-now
+
+Last-updated: Sept 15, 2025.
