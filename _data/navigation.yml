@@ -7,16 +7,16 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
-  - title: "News"
-    url: /News/ 
+# main:
+#   - title: "News"
+#     url: /News/ 
     
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
   
 
-  - title: "Education & Experience"
-    url: /Education & Experience/    
+#   - title: "Education & Experience"
+#     url: /Education & Experience/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
