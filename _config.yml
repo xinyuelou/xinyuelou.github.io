@@ -28,7 +28,7 @@ author:
   location         : "Beijing, China"
   # employer         : "Red Brick University"
   uri              : # URL
-  email            : louxinyue@bjtu.edu.cn
+  email            : louxinyue@\u200Bbjtu.edu.cn
 
   # Academic websites
   academia         : # URL
