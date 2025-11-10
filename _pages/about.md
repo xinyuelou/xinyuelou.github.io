@@ -14,7 +14,7 @@ Hi, I'm Xinyue Lou (娄馨月). I am currently a Ph.D. student at [Beijing Jiaot
 
 ## Publications
 Full List is in [Google Scholar](https://scholar.google.com/citations?hl=en&user=QEiL8JAAAAAJ)
--  **Xinyue Lou**, You Li, Jinan Xu, Xiangyu Shi, Chi Chen, Kaiyu Huang. Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model. In Proceedings of EMNLP 2025 (Oral) .  
+-  **Xinyue Lou**, You Li, Jinan Xu, Xiangyu Shi, Chi Chen, Kaiyu Huang. Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model. In Proceedings of EMNLP 2025 (EMNLP 2025 SAC Highlight Award) .  
 
 ## Education & Experience
 - B.S., Computer Science and Technology & Economics, Beijing Jiaotong University, 09/2020-06/2024
