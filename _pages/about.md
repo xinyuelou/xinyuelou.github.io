@@ -13,9 +13,14 @@ Hi, I'm Xinyue Lou (娄馨月). I am currently a Ph.D. student at [Beijing Jiaot
 - **[2025/08/21]** Our paper [TiS](https://arxiv.org/abs/2505.06538) has been accepted by EMNLP 2025!
 
 ## Publications
-Full List is in [Google Scholar](https://scholar.google.com/citations?hl=en&user=QEiL8JAAAAAJ)
+Full list is in [Google Scholar](https://scholar.google.com/citations?hl=en&user=QEiL8JAAAAAJ)
 -  **Xinyue Lou**, You Li, Jinan Xu, Xiangyu Shi, Chi Chen, Kaiyu Huang. Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model. In Proceedings of EMNLP 2025 (<span style="color:red">EMNLP 2025 SAC Highlight Award</span>) .  
+
+## Honors & Awards
+- SAC Highlight Award, EMNLP 2025
+- Beijing Outstanding Graduates, 2024
 
 ## Education & Experience
 - B.S., Computer Science and Technology & Economics, Beijing Jiaotong University, 09/2020-06/2024
 - Ph.D., Computer Science and Technology, Beijing Jiaotong University, 09/2024-now
+- Bussiness Intern, WeChat AI, Tencent Inc., China, 02/2025-05/2025 
