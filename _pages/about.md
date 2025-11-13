@@ -23,4 +23,4 @@ Full list is in [Google Scholar](https://scholar.google.com/citations?hl=en&user
 ## Education & Experience
 - B.S., Computer Science and Technology & Economics, Beijing Jiaotong University, 09/2020-06/2024
 - Ph.D., Computer Science and Technology, Beijing Jiaotong University, 09/2024-now
-- Bussiness Intern, WeChat AI, Tencent Inc., China, 02/2025-05/2025 
+- Intern, WeChat AI, Tencent Inc., China, 02/2025-05/2025 
