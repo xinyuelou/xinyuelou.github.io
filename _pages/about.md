@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xinyue Lou (娄馨月). I am currently a Ph.D. student at [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/), where I am advised by professor [Jinan Xu](https://faculty.bjtu.edu.cn/8300/) and assistant professor [Kaiyu Huang](https://faculty.bjtu.edu.cn/10144/). My research interests lie broadly in Natural Language Processing, Multimodal Large Language Models and Trustworthy Large Language Models. 
+Hi, I'm Xinyue Lou (娄馨月). I am currently a Ph.D. student at [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/), where I am advised by Professor [Jinan Xu](https://faculty.bjtu.edu.cn/8300/) and Assistant Professor [Kaiyu Huang](https://faculty.bjtu.edu.cn/10144/). My research interests lie broadly in Natural Language Processing, Multimodal Large Language Models and Trustworthy Large Language Models. 
 
 ## ❗️ News
 - **[2026/04/07]** Our paper [SaLAD](https://arxiv.org/abs/2601.04043) has been accepted by ACL 2026 Findings!
